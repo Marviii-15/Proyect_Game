@@ -1,0 +1,40 @@
+body {
+    font-family: "Creeper", Arial, sans-serif; /* Fuente Creeper */
+    background-color: #000; /* Fondo negro */
+    color: #fff; /* Texto blanco */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 15px 30px;
+    font-size: 1em;
+    background-color: #9b59b6; /* Color del botón */
+    color: #fff; /* Letras blancas */
+    border: none;
+    cursor: pointer;
+    border-radius: 20px; /* Esquinas redondeadas */
+    transition: all 0.3s;
+  }
+  
+  button:hover {
+    transform: scale(1.1); /* Agrandar el botón al pasar el mouse */
+    background-color: #8e44ad; /* Cambiar color al pasar el mouse */
+  }
