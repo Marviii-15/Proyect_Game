@@ -4,7 +4,8 @@
 
 Game Canine Adventures: Forest of Challenges.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./Adicional(1).png)
+![screenshot](./Adicional(2).png)
 
 The "Canine Adventures: Forest of Challenges" project is a platform video game developed in HTML, CSS and JavaScript. It aims to offer an interactive and exciting entertainment experience for users of all ages. The game includes game mechanics, animations, visual effects and focuses on stimulating fun, creativity and player skill.
 
